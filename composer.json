@@ -1,0 +1,17 @@
+{
+    "name": "max/movenamespace",
+    "authors": [
+        {
+            "name": "Legion112",
+            "email": "ageev.maks2014@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.4"
+    }
+}
